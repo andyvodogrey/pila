@@ -5,7 +5,6 @@ public class App {
         a.push(1);
         a.push(2);
         a.push(3);
-
         a.stampaPila();
 
     }
